@@ -1,0 +1,66 @@
+.headphone{
+    height: 212px;
+    width: 212px;
+}
+
+.headingBody{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 48px;
+    font-weight: 600;
+    margin: 20px;
+}
+
+.line{
+    width: 500px;
+    height: 15px;
+}
+
+.line2{
+    width: 125px;
+}
+
+.myHead{
+    height: 48px;
+    font-size: 32px;
+    font-family: "poppins";
+}
+
+.head{
+    height: 48px;
+    font-size: 32px;
+}
+
+.wrapper{
+    height: 270px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .Hero {
+    height: 270px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   cmmnt width: 100vh;
+  }
+  .HeroTitle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 48px;
+    font-weight: 600;
+    margin: 20px;
+  }
+  .HeroTitle > h1{
+      height: 48px;
+      font-size: 32px;
+  }
+  .HeroImage {
+    height: 212px;
+    width: 212px;
+  } */

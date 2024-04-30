@@ -1,0 +1,48 @@
+.main{
+    width: 426px;
+height: 424px;
+top: 99px;
+left: 457px;
+border-radius: 10px;
+background-color: var(--color-white) ;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+position: absolute;
+
+}
+
+.button{
+    background-color: var(--color-primary);
+    color: var(--color-white);
+    border-radius: 12px;
+    padding: 10px 16px;
+    margin: 14px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+}
+
+.field{
+    background-color: var(--color-white);
+    width: 262px;
+    height: 48px;
+    border-radius: 5px;
+    border: 1px solid var(--color-primary);
+    margin-bottom: 20px ;
+}
+
+.header{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: var(--color-primary);
+}
+
+.description{
+    background-color: var(--color-white);
+    width: 262px;
+    height: 120px;
+    border-radius: 5px;
+    border: 1px solid var(--color-primary);
+    margin-bottom: 20px ;
+}

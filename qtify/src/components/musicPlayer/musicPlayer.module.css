@@ -1,0 +1,43 @@
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    border-top: 2px solid grey;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.playbar{
+    display: flex;
+    align-items:center;
+    margin-right: 250px;
+}
+
+.playbutton{
+    margin-left: 340px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.albumpic{
+    margin-top: 20px;
+    margin-left: 24px;
+}
+
+.min{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.buttonBG{
+    background-color: var(--color-black);
+    /* border-radius: 50px; */
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.pauseButton{
+  height: 50px;
+  width: 50px;
+}
+

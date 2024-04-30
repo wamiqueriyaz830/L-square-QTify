@@ -1,0 +1,50 @@
+.arrow{
+    color: var(--color-primary);
+}
+
+.accordianBody{
+    background-color: var(--color-black) !important;
+    border: 1px solid white;
+    border-radius: 10px !important;
+    margin-bottom: 15px;
+}
+
+.accordianBody2{
+    background-color: var(--color-white) !important;
+    border-radius: 10px !important;
+}
+
+.text2{
+    color: var(--color-black);
+    font-family: "Poppins",sans-serif;
+}
+
+.text{
+    color: var(--color-white);
+    font-family: "Poppins",sans-serif;
+
+}
+
+.main{
+width: 1135px;
+/* height: 100px; */
+margin-top: 9px;
+margin-left: 8%;
+border-radius: 0px, 0px, 10px, 10px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
+.faq{
+display: flex;
+justify-content: center;
+margin-top: 29px;
+border: 1px;
+font-family: "Poppins",sans-serif;
+font-size: 50px;
+font-weight: 600;
+line-height: 75px;
+letter-spacing: 0px;
+text-align: center;
+}
